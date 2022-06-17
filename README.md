@@ -1,1 +1,2 @@
-# course-CMake_basic_to_advanced
+# CMake Course
+This is a contend for CMake Course, from basic to advanced.
