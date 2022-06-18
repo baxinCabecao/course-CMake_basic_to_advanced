@@ -1,0 +1,1 @@
+add_library(cars SHARED car.cpp)
