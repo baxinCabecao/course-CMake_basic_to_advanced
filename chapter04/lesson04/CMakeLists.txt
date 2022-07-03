@@ -35,7 +35,7 @@ install(TARGETS main cars
                         COMPONENT headers
                 LIBRARY 
                         DESTINATION local/lib
-                        COMPONENT libraary)
+                        COMPONENT library)
 
 #install(TARGETS cars 
 #        PUBLIC_HEADER DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}/${PROJECT_NAME}
